@@ -112,7 +112,8 @@ let playerMove, computerMove, result;
 
 function logout() {
 	
-    alert("Logout successful!"); // You can replace this with actual logout logic if needed
+    alert("Logout successful!");
+    window.location.href = "Login.html"; // You can replace this with actual logout logic if needed
 }
 
 
