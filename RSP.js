@@ -113,7 +113,7 @@ let playerMove, computerMove, result;
 function logout() {
 	
     alert("Logout successful!");
-    window.location.href = "Login.html"; // You can replace this with actual logout logic if needed
+    window.location.href = "index.html"; // You can replace this with actual logout logic if needed
 }
 
 
